@@ -1,0 +1,5 @@
+exports[`test Premium ads selected props true 1`] = `
+<Premium
+  onPremium={[Function]}
+  selected={true} />
+`;
